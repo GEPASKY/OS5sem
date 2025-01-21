@@ -1,3 +1,0 @@
-/home/gepasky/Documents/ос5сем/files_for_lab4/file1.txt
-/home/gepasky/Documents/ос5сем/files_for_lab4/file2.txt
-/home/gepasky/Documents/ос5сем/files_for_lab4/notes.txt
